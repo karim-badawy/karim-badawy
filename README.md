@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Karim</h1>
-<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
 </div>
 
 <div align="center">
@@ -9,18 +8,6 @@
 </p>
 
 </div>
-
-<div align="center">
-  <a href="https://github.com/karim-badawy">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karim-badawy&theme=github_dark)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karim-badawy&label=Profile%20views&color=0e75b6&style=flat" alt="karim-badawy" /> </p>
 
